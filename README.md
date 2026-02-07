@@ -2,4 +2,4 @@
 
 [LinkedIn](https://www.linkedin.com/in/emilios-antoun-a0abb2163/)
 
-More about me: https://emil-ant.github.io
+[More about me](https://emil-ant.github.io)
